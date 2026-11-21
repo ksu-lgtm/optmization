@@ -17,7 +17,7 @@
 <h2>Учебная практика</h2>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th>№</th><th>Работа</th><th>Ссылка</th></tr>
-  <tr><td>1</td><td>Практическая работа 1. Аудит доступности сайта (PDF)</td><td><a href="УП/pr1-dostupnost (1).pdf">открыть</a></td></tr>
+  <tr><td>1</td><td>Практическая работа 1. Аудит доступности сайта</td><td><a href="УП/pr1-dostupnost (1).pdf">открыть</a></td></tr>
   <tr><td>2</td><td>Практическая работа 2. Стратегия контекстной рекламы</td><td><a href="УП/pr2-kontekstnaya-reklama (1).pdf">открыть</a></td></tr>
   <tr><td>3</td><td>Практическая работа 3. Создание и реализация стратегии контент-маркетинга, написание SEO-оптимизированного контента.</td><td><a href="УП/pr3-kontent-marketing.pdf">открыть</a></td></tr>
 </table>
