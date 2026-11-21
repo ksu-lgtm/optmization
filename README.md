@@ -4,7 +4,7 @@
 <h2>Лабораторные работы</h2>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th>№</th><th>Работа</th><th>Ссылка</th></tr>
-  <tr><td>1</td><td>Лабораторная работа: Настройка Apache + PHP-FPM в VirtualBox</td><td><a href="Лабы/лаба апаче.pdf">открыть</a></td></tr>
+  <tr><td>1</td><td>Лабораторная работа №4 — Настройка Apache + PHP-FPM в VirtualBox</td><td><a href="Лабы/лаба апаче.pdf">открыть</a></td></tr>
 </table>
 
 <h2>Практические работы</h2>
